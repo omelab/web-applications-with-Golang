@@ -1,6 +1,7 @@
 ### Packages
-https://github.com/go-chi/chi
-https://github.com/go-chai/chai (type safe http handlers with automatic swagger generation)
+[chi](https://github.com/go-chi/chi)
+
+[automatic swagger generation] (https://github.com/go-chai/chai)
 
 
 
